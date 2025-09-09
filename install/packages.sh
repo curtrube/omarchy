@@ -3,7 +3,6 @@
 sudo pacman -S --noconfirm --needed \
   1password-beta \
   1password-cli \
-  asdcontrol-git \
   alacritty \
   avahi \
   bash-completion \
@@ -20,14 +19,10 @@ sudo pacman -S --noconfirm --needed \
   docker \
   docker-buildx \
   docker-compose \
-  dust \
-  evince \
-  eza \
   fastfetch \
   fcitx5 \
   fcitx5-gtk \
   fcitx5-qt \
-  fd \
   ffmpegthumbnailer \
   fontconfig \
   fzf \
@@ -54,8 +49,6 @@ sudo pacman -S --noconfirm --needed \
   jq \
   kdenlive \
   kvantum-qt5 \
-  lazydocker \
-  lazygit \
   less \
   libqalculate \
   libreoffice \
@@ -64,8 +57,6 @@ sudo pacman -S --noconfirm --needed \
   luarocks \
   mako \
   man \
-  mariadb-libs \
-  mise \
   mpv \
   nautilus \
   noto-fonts \
